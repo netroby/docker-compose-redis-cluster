@@ -1,0 +1,3 @@
+docker-data/redis-cluster1.tmpl
+docker-data/redis-cluster2.tmpl
+docker-data/redis-cluster3.tmpl
