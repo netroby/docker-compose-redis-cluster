@@ -19,3 +19,13 @@ run in static machine.
 2. `cd docker-compose-redis-cluster`
 3. `docker-compose build`
 4. `docker-compose up` or `docker-compose up -d`
+5. `./setup.sh`
+6. If needed, change the redis conf, add password
+
+### auth
+
+```
+masterauth  admin@123
+requirepass admin@123
+
+```
